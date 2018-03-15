@@ -8,5 +8,5 @@
 
 **Link(s) to work**
 1. [Comment your javascript code](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
-To
-2. [Build Javascript Objects](https://www.freecodecamp.org/challenges/build-javascript-objects)
+- To
+2. [Multiply two decimals with javascript](https://www.freecodecamp.org/challenges/multiply-two-decimals-with-javascript)
