@@ -19,4 +19,4 @@
 **Thoughts** I have to study more of the 'new' functions in javascript, they facilitate so much that I can't even imagine.
 
 **Link(s) to work**
-3. [Change a list with an array](./projects/javascript/insert-into-list/index.html)
+3. [Change a list with an array](./projects/javascript/insert-into-list/changeList.js)
