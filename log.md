@@ -10,7 +10,7 @@
 1. [Comment your javascript code](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
 - To
 2. [Multiply two decimals with javascript](https://www.freecodecamp.org/challenges/multiply-two-decimals-with-javascript)
-3. [Change a list with an array](projects\javascript\change-a-list\index.html)
+3. [Change a list with an array](./projects/javascript/change-a-list/index.html)
 
 ### Day 2: March 15, 
 
@@ -19,4 +19,4 @@
 **Thoughts** I have to study more of the 'new' functions in javascript, they facilitate so much that I can't even imagine.
 
 **Link(s) to work**
-3. [Change a list with an array](projects\javascript\insert-into-list\index.html)
+3. [Change a list with an array](./projects/javascript/insert-into-list/index.html)
