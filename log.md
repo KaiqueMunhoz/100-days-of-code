@@ -28,6 +28,6 @@
 **Thoughts** I am remembering Javascript. I stayed a lot of time without programming with this language, but with this challenge, I will remember and improve my skills.
 
 **Link(s) to work**
-1. [Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
-2. [Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
-3. [Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
+1. [HTML - Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
+2. [CSS - Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
+3. [JS - Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
