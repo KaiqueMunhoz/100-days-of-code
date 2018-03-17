@@ -31,3 +31,14 @@
 1. [HTML - Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
 2. [CSS - Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
 3. [JS - Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
+
+### Day 4: March 17, 
+
+**Today's Progress**: Back to the freeCodeCamp, I continued do the exercises to complete the module of Javascript.
+
+**Thoughts** I read all the details of each exercise, it makes me improving not just the code but my English too.
+
+**Link(s) to work**
+1. [Divide One Number by Another](https://www.freecodecamp.org/challenges/divide-one-number-by-another-with-javascript)
+- To
+2. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
