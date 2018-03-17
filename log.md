@@ -34,7 +34,7 @@
 
 ### Day 4: March 17, 
 
-**Today's Progress**: Back to the freeCodeCamp, I continued do the exercises to complete the module of Javascript.
+**Today's Progress**: Back to the freeCodeCamp, I continued to do the exercises to complete the module of Javascript.
 
 **Thoughts** I read all the details of each exercise, it makes me improving not just the code but my English too.
 
