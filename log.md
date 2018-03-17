@@ -19,4 +19,15 @@
 **Thoughts** I have to study more of the 'new' functions in javascript, they facilitate so much that I can't even imagine.
 
 **Link(s) to work**
-3. [Change a list with an array](./projects/javascript/insert-into-list/changeList.js)
+1. [Change a list with an array](./projects/javascript/insert-into-list/changeList.js)
+
+### Day 3: March 16, 
+
+**Today's Progress**: Today I forced myself to create the challenge from scratch. First I watch the video two times and then I code. Not work so easy as I imagine, but I get almost in the end without repeat the video. After I finish the challenge I comment the code most I can to understand more and to train my English.
+
+**Thoughts** I am remembering Javascript. I stayed a lot of time without programming with this language, but with this challenge, I will remember and improve my skills.
+
+**Link(s) to work**
+1. [Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
+2. [Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
+3. [Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
