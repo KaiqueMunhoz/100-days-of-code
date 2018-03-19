@@ -42,3 +42,14 @@
 1. [Divide One Number by Another](https://www.freecodecamp.org/challenges/divide-one-number-by-another-with-javascript)
 - To
 2. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+
+### Day 5: March 18, 
+
+**Today's Progress**: Back to the freeCodeCamp, I continued to do the exercises to complete the module of Javascript.
+
+**Thoughts** Today I force soo much to make this challenge. I arrived of a travel a few hours ago and even so upset, I make some exercises in freeCodeCamp.
+
+**Link(s) to work**
+1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+- To
+2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
