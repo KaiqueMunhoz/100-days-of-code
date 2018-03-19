@@ -53,3 +53,14 @@
 1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
 - To
 2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
+
+### Day 6: March 19, 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+- To
+2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
