@@ -47,7 +47,7 @@
 
 **Today's Progress**: Back to the freeCodeCamp, I continued to do the exercises to complete the module of Javascript.
 
-**Thoughts** Today I force soo much to make this challenge. I arrived of a travel a few hours ago and even so upset, I make some exercises in freeCodeCamp.
+**Thoughts** Today was tough to make this challenge. I arrived of a travel around two hours ago. Very tired, but I did some exercises in freeCodeCamp.
 
 **Link(s) to work**
 1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
