@@ -56,11 +56,12 @@
 
 ### Day 6: March 19, 
 
-**Today's Progress**: 
+**Today's Progress**: Remember inheritance in Javascript, now much better than in the past. I did more freeCodeCamp exercises too, soon I will finish the Basic Javascript module.
 
-**Thoughts** 
+**Thoughts** Javascript change a lot for me. It's more consise ans legible
 
 **Link(s) to work**
-1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
-- To
+1. [JS - Inheritance](./projects/javascript/inheritance/script.js)
 2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
+- To
+3. []()
