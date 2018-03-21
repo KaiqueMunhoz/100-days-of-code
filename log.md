@@ -68,9 +68,20 @@
 
 ### Day 7: March 20, 
 
-**Today's Progress**: Finished the Basic Javascript module.
+**Today's Progress**: Finished the Basic Javascript module. Work with collections Map, WeakMap, Set and WeakSet.
 
-**Thoughts** I had difficult to solve the problem 'profile-lookup'. I spent more than one hour thinking how to pass all the tests. In the future, I wanna do it again.
+**Thoughts**
+- I had difficult to solve the problem 'profile-lookup'. I spent more than one hour thinking how to pass all the tests. In the future, I wanna do it again.
+- Map
+    - Has the methods size() and clear() and work with any properties types.
+- WeakMap
+    - Hasn't the methods size() and clear() and just work with properties which are objects.
+- Set
+    - Has the methods size(),clear() and has() and work with any properties types.
+    - Doesn't work with repetitive values.
+    - Doesn't return the values, it just works to validate if we have an item or not
+- WeakSet
+    - Hasn't the methods size() and clear() and just work with properties which are objects.
 
 **Link(s) to work**
 1. [JS - Inheritance](./projects/javascript/profile-lookup/script.js)
