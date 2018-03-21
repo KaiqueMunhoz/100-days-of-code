@@ -64,4 +64,15 @@
 1. [JS - Inheritance](./projects/javascript/inheritance/script.js)
 2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
 - To
-3. []()
+3. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
+
+### Day 7: March 20, 
+
+**Today's Progress**: Finished the Basic Javascript module.
+
+**Thoughts** I had difficult to solve the problem 'profile-lookup'. I spent more than one hour thinking how to pass all the tests. In the future, I wanna do it again.
+
+**Link(s) to work**
+1. [JS - Inheritance](./projects/javascript/profile-lookup/script.js)
+2. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
+3. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
