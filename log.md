@@ -87,3 +87,16 @@
 1. [JS - Inheritance](./projects/javascript/profile-lookup/script.js)
 2. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
 3. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
+
+### Day 8: March 21, 
+
+**Today's Progress** Complete five exercises of course 'Javascript: The good parts' in Pluralsight
+
+**Thoughts** This course made me think about how we do not need to use everything in a programming language. A lot of resources tend to cause more errors than others. These resources are due to use with more conscious or even not to use.
+
+**Link(s) to work**
+1. [Problem 1](./projects/javascript-the-good-parts/problem1/script.js)
+1. [Problem 2](./projects/javascript-the-good-parts/problem2/script.js)
+1. [Problem 3](./projects/javascript-the-good-parts/problem3/script.js)
+1. [Problem 4](./projects/javascript-the-good-parts/problem4/script.js)
+1. [Problem 5](./projects/javascript-the-good-parts/problem5/script.js)
