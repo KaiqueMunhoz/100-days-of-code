@@ -103,9 +103,9 @@
 
 ### Day 9: March 22, 
 
-**Today's Progress** 
+**Today's Progress** I study ES6 and made some annotations to remember and fixed in my mind.
 
-**Thoughts** 
+**Thoughts** How to pass parameters of a child class to the father class? In the exercises of Rocketseat ES6 course, exists a question that needs this. I wonder how to do this.
 
 **Link(s) to work**
 1. (./projects/rocketseat)
