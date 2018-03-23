@@ -18,8 +18,7 @@ class List{
 //============CLASS===CHILD====================
 class TodoList extends List {
     constructor() {
-        //Constructor of father
-        super();
+        super(); //Constructor of father
     }
 
 
@@ -42,7 +41,7 @@ class Mathematics {
 
 //====================CONST=================
 
-const a = 1; //The value can't be reassignment
+const a = 1; //The value can't be reassigned
 const user = {name: 'Kaique'};
 user.name = 'Munhoz'; //But can muttate the value.
 
@@ -57,7 +56,7 @@ function test(x) {
     }
 }
 
-console.log(y); //Error: The variable is undefinied
+console.log(y); //Error: The variable is undefined
 
 test(10); //Run perfectly
 
@@ -65,26 +64,26 @@ test(10); //Run perfectly
 
 const arr = [1,2,3,4,5,6,7,8,9,10];
 
-//map: Work with each index of an array, given the value and it's respective index;
+//map: Works with each index of an array, given the value and it's respective index;
 const newArrMap = arr.map(function(item, index){
     return item * 2;
 });
 
 console.log(newArrMap);
 
-//reduce: Return/Transform the array in one value.
+//reduce: Returns/Transform the array in one value.
 const newArrReduce = arr.reduce(function(total, next){
     return total + next;
 });
 console.log(newArrReduce);
 
-//filter: receive a condition and when result in true, return that value.
+//filter: Receives a condition and when result in true, return that value.
 const newArrFilter = arr.filter(function(item){
     return item % 2 === 0;
 });
 console.log(newArrFilter);
 
-//find: receive a condition and show if this value exists into array.
+//find: Receives a condition and show if this value exists into array.
 const newArrFind = arr.find(function(){
     return item === 4; //return 4
     //return item === 2; //return undefined
@@ -106,12 +105,12 @@ const newArrowFunctionFind = arr.find(item => item === 4);
 console.log(newArrowFunctionFind);
 
 //===================VALUES===DEFAULT==========
-//Values default to paramters
+//Values default to the parameters
 function multiply(c = 3, d = 2) {
     return c * d;
 }
 
-console.log(multiply(1)); //Will assign the value to 'c' and use the value 2 of d to make the multiply.
+console.log(multiply(1)); //Will assign the value to 'c' and use the value 2 of d to multiply.
 
 //==================DESTRUCTURING===================
 const user2 = {
@@ -134,7 +133,7 @@ const {name, age, address: {city} } = user2; // With Destructuring we can declar
 console.log(name);
 console.log(age);
 
-function showName ({ name, age }){ //Because I know that the object has the property name and age, I can pass directly this propertys like params
+function showName ({ name, age }){ //Because I know that the object has the properties name and age, I can pass directly these properties  like parameters
     console.log(name + " is " + age + " old.");
 }
 
@@ -159,7 +158,7 @@ function sum3 (...params) { //Using like a param
 console.log(sum3(1,2,3,4,5));
 
 //==================SPREAD===================
-//Propagate the informations to others
+//Propagates the information to others
 
 const arr3 = [1,3,5,7];
 const arr4 = [2,4,6,8];
