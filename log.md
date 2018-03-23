@@ -100,3 +100,12 @@
 1. [Problem 3](./projects/javascript-the-good-parts/problem3/script.js)
 1. [Problem 4](./projects/javascript-the-good-parts/problem4/script.js)
 1. [Problem 5](./projects/javascript-the-good-parts/problem5/script.js)
+
+### Day 9: March 22, 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. (./projects/rocketseat)
