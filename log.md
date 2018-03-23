@@ -108,4 +108,4 @@
 **Thoughts** How to pass parameters of a child class to the father class? In the exercises of Rocketseat ES6 course, exists a question that needs this. I wonder how to do this.
 
 **Link(s) to work**
-1. (./projects/rocketseat)
+1. [ES6 Anotations](./projects/rocketseat/course/main.js)
