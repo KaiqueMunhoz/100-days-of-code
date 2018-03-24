@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 11: March 24, 
+
+**Today's Progress** Today I started the 30 days javascript challenge. Making this challenge together with 100 days of code, I hope to improve my Javascript skill much more.In the first day of this new challenge, I coded a page that simulated a drum kit.
+
+**Thoughts** Now the exercises for the next 30 days will be more beautiful because this other challenge gives the files with HTML and CSS done.
+
+**Link(s) to work**
+1. [Drum kit](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
+
 ### Day 10: March 23, 
 
 **Today's Progress** I complete the Basic Javascript and Object Oriented and Functional Programming Modules on the freeCodeCamp and begin the challenges of the module: Basic Algorithm Scripting
