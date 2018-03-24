@@ -1,30 +1,147 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 Days Of Code - Round 1
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
-Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+### Day 10: March 23, 
 
-## Want to change other habits? 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+**Today's Progress** I complete the Basic Javascript and Object Oriented and Functional Programming Modules on the freeCodeCamp and begin the challenges of the module: Basic Algorithm Scripting
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more! 
+**Thoughts** The day was productive. I got it stay two uninterrupted hours in freeCodeCamp and this helped me make a lot of exercises.
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+**Link(s) to work**
+1. [Palindrome](./projects/free-code-camp/palindrome.js)
+
+
+### Day 9: March 22, 
+
+**Today's Progress** I study ES6 and made some annotations to remember and fixed in my mind.
+
+**Thoughts** How to pass parameters of a child class to the father class? In the exercises of Rocketseat ES6 course, exists a question that needs this. I wonder how to do this.
+
+**Link(s) to work**
+1. [ES6 Anotations](./projects/rocketseat/course/main.js)
+
+
+### Day 8: March 21, 
+
+**Today's Progress** Complete five exercises of course 'Javascript: The good parts' in Pluralsight
+
+**Thoughts** This course made me think about how we do not need to use everything in a programming language. A lot of resources tend to cause more errors than others. These resources are due to use with more conscious or even not to use.
+
+**Link(s) to work**
+1. [Problem 1](./projects/javascript-the-good-parts/problem1/script.js)
+1. [Problem 2](./projects/javascript-the-good-parts/problem2/script.js)
+1. [Problem 3](./projects/javascript-the-good-parts/problem3/script.js)
+1. [Problem 4](./projects/javascript-the-good-parts/problem4/script.js)
+1. [Problem 5](./projects/javascript-the-good-parts/problem5/script.js)
+
+
+### Day 7: March 20, 
+
+**Today's Progress**: Finished the Basic Javascript module. Work with collections Map, WeakMap, Set and WeakSet.
+
+**Thoughts**
+- I had difficult to solve the problem 'profile-lookup'. I spent more than one hour thinking how to pass all the tests. In the future, I wanna do it again.
+- Map
+    - Has the methods size() and clear() and work with any properties types.
+- WeakMap
+    - Hasn't the methods size() and clear() and just work with properties which are objects.
+- Set
+    - Has the methods size(),clear() and has() and work with any properties types.
+    - Doesn't work with repetitive values.
+    - Doesn't return the values, it just works to validate if we have an item or not
+- WeakSet
+    - Hasn't the methods size() and clear() and just work with properties which are objects.
+
+**Link(s) to work**
+1. [JS - Inheritance](./projects/javascript/profile-lookup/script.js)
+2. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
+3. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
+
+
+### Day 6: March 19, 
+
+**Today's Progress**: Remember inheritance in Javascript, now much better than in the past. I did more freeCodeCamp exercises too, soon I will finish the Basic Javascript module.
+
+**Thoughts** Javascript change a lot for me. It's more consise ans legible
+
+**Link(s) to work**
+1. [JS - Inheritance](./projects/javascript/inheritance/script.js)
+2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
+- To
+3. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
+
+
+### Day 5: March 18, 
+
+**Today's Progress**: Back to the freeCodeCamp, I continued to do the exercises to complete the module of Javascript.
+
+**Thoughts** Today was tough to make this challenge. I arrived of a travel around two hours ago. Very tired, but I did some exercises in freeCodeCamp.
+
+**Link(s) to work**
+1. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+- To
+2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
+
+
+### Day 4: March 17, 
+
+**Today's Progress**: Back to the freeCodeCamp, I continued to do the exercises to complete the module of Javascript.
+
+**Thoughts** I read all the details of each exercise, it makes me improving not just the code but my English too.
+
+**Link(s) to work**
+1. [Divide One Number by Another](https://www.freecodecamp.org/challenges/divide-one-number-by-another-with-javascript)
+- To
+2. [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/challenges/store-multiple-values-in-one-variable-using-javascript-arrays)
+
+
+### Day 3: March 16, 
+
+**Today's Progress**: Today I forced myself to create the challenge from scratch. First I watch the video two times and then I code. Not work so easy as I imagine, but I get almost in the end without repeat the video. After I finish the challenge I comment the code most I can to understand more and to train my English.
+
+**Thoughts** I am remembering Javascript. I stayed a lot of time without programming with this language, but with this challenge, I will remember and improve my skills.
+
+**Link(s) to work**
+1. [HTML - Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
+2. [CSS - Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
+3. [JS - Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
+
+
+### Day 2: March 15, 
+
+**Today's Progress**: I was really bad in code today. The exercise that I made, cost me more than 1 hour. After think in a solution, not so elegant, I saw the answer video and rehash my code. We this change, I could use the functions: 'splice, push, map and join' to work with my array. (In the my original code I not even used array).
+
+**Thoughts** I have to study more of the 'new' functions in javascript, they facilitate so much that I can't even imagine.
+
+**Link(s) to work**
+1. [Change a list with an array](./projects/javascript/insert-into-list/changeList.js)
+
+
+### Day 1: March 14, 
+
+**Today's Progress**: I went back to practice in freeCodeCamp and rehash a few exercises of Javascript Basic Module
+
+**Thoughts** I want to create an habit to code everday. While I don't think what project to do, I will continue to work on exercises in freeCodeCamp.
+
+**Link(s) to work**
+1. [Comment your javascript code](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
+- To
+2. [Multiply two decimals with javascript](https://www.freecodecamp.org/challenges/multiply-two-decimals-with-javascript)
+3. [Change a list with an array](./projects/javascript/change-a-list/index.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
