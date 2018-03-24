@@ -4,11 +4,11 @@ function palindrome(str) {
         function (value) {
             return value != " ";
         });
-    var arrayNormal = array.slice();
-    var arrayReversed = array.reverse();
+    var normalArray = array.slice();
+    var reversedArray = array.reverse();
 
     for (var i =0; i < array.length; i++){
-        if(arrayNormal[i] !== arrayReversed[i]){
+        if(normalArray[i] !== reversedArray[i]){
             return false;
         }
     }
