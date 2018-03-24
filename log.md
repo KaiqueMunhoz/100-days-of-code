@@ -109,3 +109,12 @@
 
 **Link(s) to work**
 1. [ES6 Anotations](./projects/rocketseat/course/main.js)
+
+### Day 10: March 23, 
+
+**Today's Progress** I complete the Basic Javascript and Object Oriented and Functional Programming Modules on the freeCodeCamp and begin the challenges of the module: Basic Algorithm Scripting
+
+**Thoughts** The day was productive. I got it stay two uninterrupted hours in freeCodeCamp and this helped me make a lot of exercises.
+
+**Link(s) to work**
+1. [Palindrome](./projects/free-code-camp/palindrome.js)
