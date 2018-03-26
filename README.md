@@ -1,5 +1,14 @@
 # 100 Days Of Code - Round 1
 
+### Day 12: March 25, 
+
+**Today's Progress** Today I made a clock. Following the videos of # Javascript30 in this lesson we used the class Javascript Date. With a few CSS transform and manipulating the transition of the pointers, the page was until good.
+
+**Thoughts** I realized that I have to study more CSS3. Things like 'transform' and 'transition' give much power to the developer, and I am not so familiarized with these properties. 
+
+**Link(s) to work**
+1. [JS and CSS Clock](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
 
 ### Day 11: March 24, 
 
