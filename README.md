@@ -1,5 +1,15 @@
 # 100 Days Of Code - Round 1
 
+### Day 13: March 26, 
+
+**Today's Progress** I came back to the freeCodeCamp. I continued the Basic Algorithm Scripting module and made 4 more exercises. Besides that, I worked with CSS variables and learn how to manipulate them with Javascript.
+
+**Thoughts** Like I thought yesterday, CSS3 is really fantastic and I have to study more this incredible tool. These variables make the code so easy to read and even to work with.
+
+**Link(s) to work**
+1. [CSS Variables](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+
+
 ### Day 12: March 25, 
 
 **Today's Progress** Today I made a clock. Following the videos of # Javascript30 in this lesson we used the class Javascript Date. With a few CSS transform and manipulating the transition of the pointers, the page was until good.
