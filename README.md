@@ -1,5 +1,16 @@
 # 100 Days Of Code - Round 1
 
+
+### Day 14: March 27, 
+
+**Today's Progress** Today was a day to practice arrays in Javascript. In freeCodeCamp I made more 3 exercises. In #Javascript30 challenge the exercises were more specific in functions: map, reduce, filter, sort.
+
+**Thoughts** I understood a little more the function 'sort', but I still have a problem to figured out how I will put the number positive or negative to ordinate in a way I pretend. I learned something new in the function reduce. I didn't know that the second param, after the callback function, was the initial value of the first param in the callback.function.
+
+**Link(s) to work**
+1. [Array Cardio Day 1](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+
+
 ### Day 13: March 26, 
 
 **Today's Progress** I came back to the freeCodeCamp. I continued the Basic Algorithm Scripting module and made 4 more exercises. Besides that, I worked with CSS variables and learn how to manipulate them with Javascript.
