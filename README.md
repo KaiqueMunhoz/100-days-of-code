@@ -8,7 +8,10 @@
 **Thoughts** I understood a little more the function 'sort', but I still have a problem to figured out how I will put the number positive or negative to ordinate in a way I pretend. I learned something new in the function reduce. I didn't know that the second param, after the callback function, was the initial value of the first param in the callback.function.
 
 **Link(s) to work**
-1. [Array Cardio Day 1](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+1. [Repeat a string repeat a string](./projects/free-code-camp/repeatAString.js)
+2. [Truncate a string](./projects/free-code-camp/truncateAString.js)
+3. [Chunky Monkey](./projects/free-code-camp/chunkyMonkey.js)
+4. [Array Cardio Day 1](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
 
 ### Day 13: March 26, 
