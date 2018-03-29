@@ -1,6 +1,21 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 15: March 28, 
+
+**Today's Progress** Today I stuck on the 'Mutation' exercise of the freeCodeCamp. Besides that, I made 2 more exercises and work for the first time with flexbox CSS. The Day 5 of #Javascript30 not have so much Javascript but the flexbox worth it.
+
+
+**Thoughts** I liked so much the facility of the flexbox. In a near future, I want to learn more about this tool.
+
+
+**Link(s) to work**
+1. [Slasher Flick](./projects/free-code-camp/slasherFlick.js)
+2. [Mutation](./projects/free-code-camp/mutation.js)
+3. [Falsy Bouncer](./projects/free-code-camp/falsyBouncer.js)
+4. [Flex Panel Galery](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+
 ### Day 14: March 27, 
 
 **Today's Progress** Today was a day to practice arrays in Javascript. In freeCodeCamp I made more 3 exercises. In #Javascript30 challenge the exercises were more specific in functions: map, reduce, filter, sort.
