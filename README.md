@@ -1,6 +1,17 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 16: March 29, 
+
+**Today's Progress** Today I made a quick exam to work with frontend developer junior. Back to #Javascript30, we worked with a page that filters by name of city or state in a JSON document.
+
+**Thoughts** It's holiday in Brasil, I wanna take this time to put my exercises in order.
+
+
+**Link(s) to work**
+1. [Type Ahead](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/06%20-%20Type%20Ahead)
+
+
 ### Day 15: March 28, 
 
 **Today's Progress** Today I stuck on the 'Mutation' exercise of the freeCodeCamp. Besides that, I made 2 more exercises and work for the first time with flexbox CSS. The Day 5 of #Javascript30 not have so much Javascript but the flexbox worth it.
