@@ -8,9 +8,9 @@ Lastly, ["Alien", "line"], should return true because all of the letters in "lin
 
 function mutation(arr) {
 
-    var firstIndex = arr[0].split('').sort().join('');
-    var secondIndex = arr[1].split('').sort().join('');
-    
+    return arr[1].toLowerCase().split('').every(function(letter) {
+      return arr[0].toLowerCase().indexOf(letter) !== -1;
+    });
 }
   
-mutation(["hello", "hello as"]);
+mutation(["hello", "hello"]);
