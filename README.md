@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 18: March 31, 
+
+**Today's Progress** I finished the module 'JSON API and AJAX' at freeCodeCamp. This module used JQuery and I didn't remember almost anything about this tool. Today, for things easy to do, I prefer plain Javascript.
+
+**Thoughts** FreeCodeCamp could change the module 'JSON API and AJAX' to work with vanilla Javascript.
+
+**Link(s) to work**
+1. [Fun with HTML5 Canvas](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
+
 ### Day 17: March 30, 
 
 **Today's Progress** Today I finished the module 'Basic Algorithm Scripting' at freeCodeCamp. I spent about 2 hours to do the last exercise, but I could learn a lot with it. In #Javascript30, I used some new array methods like: find, findIndex, some and every.
