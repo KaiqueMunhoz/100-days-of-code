@@ -1,12 +1,24 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 17: March 30, 
+
+**Today's Progress** Today I finished the module 'Basic Algorithm Scripting' at freeCodeCamp. I spent about 2 hours to do the last exercise, but I could learn a lot with it. In #Javascript30, I used some new array methods like: find, findIndex, some and every.
+
+**Thoughts** I passed the exam I made yesterday. Now I have to make a video to respond a few questions, like a job interview, and, if everything goes alright, they will give me one month of training.
+
+**Link(s) to work**
+1. [Seek and Destroy](./projects/free-code-camp/seekAndDestroy.js)
+2. [Where do I Belong](./projects/free-code-camp/whereDoIBelong.js)
+3. [Caesars Cipher](./projects/free-code-camp/caesarsCipher.js)
+4. [Array Cardio Day 2](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+
+
 ### Day 16: March 29, 
 
 **Today's Progress** Today I made a quick exam to work with frontend developer junior. Back to #Javascript30, we worked with a page that filters by name of city or state in a JSON document.
 
 **Thoughts** It's holiday in Brasil, I wanna take this time to put my exercises in order.
-
 
 **Link(s) to work**
 1. [Type Ahead](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/06%20-%20Type%20Ahead)
@@ -16,9 +28,7 @@
 
 **Today's Progress** Today I stuck on the 'Mutation' exercise of the freeCodeCamp. Besides that, I made 2 more exercises and work for the first time with flexbox CSS. The Day 5 of #Javascript30 not have so much Javascript but the flexbox worth it.
 
-
 **Thoughts** I liked so much the facility of the flexbox. In a near future, I want to learn more about this tool.
-
 
 **Link(s) to work**
 1. [Slasher Flick](./projects/free-code-camp/slasherFlick.js)
