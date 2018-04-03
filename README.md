@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 20: April 02, 
+
+**Today's Progress** How to use simple methods of regular expressions in my code in Javascript and how to treat the bugs in my files. This was my day in #100DaysOfCode. In #Javascript30, the challenge was to work with checkboxes and figured out how to mark all of then when the shift key was pressed.
+
+**Thoughts** In the #Javascipt30, we made a function that one boolean variable was assigned with the opposite of itself. I still thinking how this worked with that code.
+
+**Link(s) to work**
+1. [Hold Shift and Check Checkboxes](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
+2. [Bugs](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/javascript/bugs)
+3. [Regular Expressions](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/javascript/regular-expressions)
+
+
 ### Day 19: April 01, 
 
 **Today's Progress** Today I could just read about dev tools and how to better debug my code with chrome browser. I learned how to use console.log in others ways too.
