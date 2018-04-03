@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 19: April 01, 
+
+**Today's Progress** Today I could just read about dev tools and how to better debug my code with chrome browser. I learned how to use console.log in others ways too.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Dev Tools Domination](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
+
+
 ### Day 18: March 31, 
 
 **Today's Progress** I finished the module 'JSON API and AJAX' at freeCodeCamp. This module used JQuery and I didn't remember almost anything about this tool. Today, for things easy to do, I prefer plain Javascript.
