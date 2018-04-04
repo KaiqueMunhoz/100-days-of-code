@@ -3,9 +3,9 @@
 
 ### Day 21: April 03, 
 
-**Today's Progress** 
+**Today's Progress** Today I learned about the scope of Javascript with methods: 'bind', 'apply', 'call' and a little of 'closures'. Also, I worked with objects that manipulating the browser like: 'window' and 'history'.
 
-**Thoughts** 
+**Thoughts** Guess, I can solve that problem of the day 9. Tomorrow I will work on this.
 
 **Link(s) to work**
 1. [Custom Video Player](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
