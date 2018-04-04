@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 21: April 03, 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Custom Video Player](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
+2. [Intermediate functions](projects/javascript/intermediate-functions/)
+3. [Controlling the browser](projects/javascript/controlling-the-browser/)
+
+
 ### Day 20: April 02, 
 
 **Today's Progress** How to use simple methods of regular expressions in my code in Javascript and how to treat the bugs in my files. This was my day in #100DaysOfCode. In #Javascript30, the challenge was to work with checkboxes and figured out how to mark all of then when the shift key was pressed.
