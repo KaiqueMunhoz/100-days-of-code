@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forms</title>
+</head>
+<body>
+    <input type="text" id="my-input">
+    <button id="my-button"></button>
+
+    <input type="checkbox" id="a">
+    <input type="checkbox" id="b">
+    <input type="checkbox" id="c">
+
+    <input type="radio" id="d" name='my-radio'>
+    <input type="radio" id="e" name='my-radio'>
+
+    <select id="my-select">
+        <option value="1" id="f"></option>
+        <option value="2" id="g"></option>
+        <option value="3" id="h"></option>
+    </select>
+
+    <input type="file" id="myFile" accept=".txt" onchange="handleFileSelect()">
+    <textarea id="fileContent" cols="30" rows="10"></textarea>
+    <button onclick="saveFile()">Save File</button>
+
+    <script src="filesTextarea.js"></script>
+    
+</body>
+</html>
