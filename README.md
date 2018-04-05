@@ -3,13 +3,13 @@
 
 ### Day 22: April 04, 
 
-**Today's Progress** Today I learned about the scope of Javascript with methods: 'bind', 'apply', 'call' and a little of 'closures'. Also, I worked with objects that manipulating the browser like: 'window' and 'history'.
+**Today's Progress** Today I worked with the 'input type:file'. How to save a simple values/states of input/select and after load this file.
 
-**Thoughts** Guess, I can solve that problem of the day 9. Tomorrow I will work on this.
+**Thoughts**
 
 **Link(s) to work**
 1. [Key Sequence Detection](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
-2. [Intermediate functions](projects/treinaweb/intermediate-functions/)
+2. [Forms](projects/treinaweb/forms/)
 
 
 ### Day 21: April 03, 
@@ -199,7 +199,7 @@
 **Thoughts** Javascript change a lot for me. It's more consise ans legible
 
 **Link(s) to work**
-1. [JS - Inheritance](./projects/javascript/inheritance/script.js)
+1. [JS - Inheritance](./projects/treinaweb/inheritance/script.js)
 2. [Introducing Else Statements](https://www.freecodecamp.org/challenges/introducing-else-statements)
 - To
 3. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
@@ -236,9 +236,9 @@
 **Thoughts** I am remembering Javascript. I stayed a lot of time without programming with this language, but with this challenge, I will remember and improve my skills.
 
 **Link(s) to work**
-1. [HTML - Tic Tac Toe](./projects/javascript/tic-tac-toe/index.html)
-2. [CSS - Tic Tac Toe](./projects/javascript/tic-tac-toe/style.css)
-3. [JS - Tic Tac Toe](./projects/javascript/tic-tac-toe/script.js)
+1. [HTML - Tic Tac Toe](./projects/treinaweb/tic-tac-toe/index.html)
+2. [CSS - Tic Tac Toe](./projects/treinaweb/tic-tac-toe/style.css)
+3. [JS - Tic Tac Toe](./projects/treinaweb/tic-tac-toe/script.js)
 
 
 ### Day 2: March 15, 
@@ -248,7 +248,7 @@
 **Thoughts** I have to study more of the 'new' functions in javascript, they facilitate so much that I can't even imagine.
 
 **Link(s) to work**
-1. [Change a list with an array](./projects/javascript/insert-into-list/changeList.js)
+1. [Change a list with an array](./projects/treinaweb/insert-into-list/changeList.js)
 
 
 ### Day 1: March 14, 
@@ -261,7 +261,7 @@
 1. [Comment your javascript code](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
 - To
 2. [Multiply two decimals with javascript](https://www.freecodecamp.org/challenges/multiply-two-decimals-with-javascript)
-3. [Change a list with an array](./projects/javascript/change-a-list/index.html)
+3. [Change a list with an array](./projects/treinaweb/change-a-list/index.html)
 
 
 
