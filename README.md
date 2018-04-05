@@ -1,6 +1,17 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 22: April 04, 
+
+**Today's Progress** Today I learned about the scope of Javascript with methods: 'bind', 'apply', 'call' and a little of 'closures'. Also, I worked with objects that manipulating the browser like: 'window' and 'history'.
+
+**Thoughts** Guess, I can solve that problem of the day 9. Tomorrow I will work on this.
+
+**Link(s) to work**
+1. [Key Sequence Detection](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
+2. [Intermediate functions](projects/treinaweb/intermediate-functions/)
+
+
 ### Day 21: April 03, 
 
 **Today's Progress** Today I learned about the scope of Javascript with methods: 'bind', 'apply', 'call' and a little of 'closures'. Also, I worked with objects that manipulating the browser like: 'window' and 'history'.
@@ -9,8 +20,8 @@
 
 **Link(s) to work**
 1. [Custom Video Player](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
-2. [Intermediate functions](projects/javascript/intermediate-functions/)
-3. [Controlling the browser](projects/javascript/controlling-the-browser/)
+2. [Intermediate functions](projects/treinaweb/intermediate-functions/)
+3. [Controlling the browser](projects/treinaweb/controlling-the-browser/)
 
 
 ### Day 20: April 02, 
@@ -21,8 +32,8 @@
 
 **Link(s) to work**
 1. [Hold Shift and Check Checkboxes](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
-2. [Bugs](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/javascript/bugs)
-3. [Regular Expressions](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/javascript/regular-expressions)
+2. [Bugs](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/treinaweb/bugs)
+3. [Regular Expressions](https://github.com/KaiqueMunhoz/100-days-of-code/tree/master/projects/treinaweb/regular-expressions)
 
 
 ### Day 19: April 01, 
@@ -176,7 +187,7 @@
     - Hasn't the methods size() and clear() and just work with properties which are objects.
 
 **Link(s) to work**
-1. [JS - Inheritance](./projects/javascript/profile-lookup/script.js)
+1. [JS - Inheritance](./projects/free-code-camp/profile-lookup/script.js)
 2. [Iterate with JavaScript For Loops](https://www.freecodecamp.org/challenges/iterate-with-javascript-for-loops)
 3. [Declare JavaScript Objects as Variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
 
