@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 23: April 05, 
+
+**Today's Progress** Today I learned about 'debounce' and how to use it with the event scroll to make sure, the images 'hidden' appears.
+
+**Thoughts**
+
+**Link(s) to work**
+1. [Slide in on Scroll](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
+
+
 ### Day 22: April 04, 
 
 **Today's Progress** Today I worked with the 'input type:file'. How to save a simple values/states of input/select and after load this file.
