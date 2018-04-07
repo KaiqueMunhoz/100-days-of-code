@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 24: April 06, 
+
+**Today's Progress** Today I studied about 'reference' in Javascript. The difference of an assignment of a primitive type (string, number) to the assignment of an array/object.  Also, I learned how to make a copy for real of an array and object.
+
+**Thoughts**
+
+**Link(s) to work**
+1. [JavaScript References VS Copying](https://github.com/KaiqueMunhoz/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
+
+
 ### Day 23: April 05, 
 
 **Today's Progress** Today I learned about 'debounce' and how to use it with the event scroll to make sure, the images 'hidden' appears.
