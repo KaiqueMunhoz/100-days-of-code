@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 25: April 07, 
+
+**Today's Progress** Today worked with localStorage. In this project, we save an array of objects (with JSON.stringify) in the localStorage for when the page would be reloaded, the objects saved appears.
+
+**Thoughts**
+
+**Link(s) to work**
+1. [LocalStorage](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
+
+
 ### Day 24: April 06, 
 
 **Today's Progress** Today I studied about 'reference' in Javascript. The difference of an assignment of a primitive type (string, number) to the assignment of an array/object.  Also, I learned how to make a copy for real of an array and object.
