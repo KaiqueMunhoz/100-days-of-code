@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 26: April 08, 
+
+**Today's Progress** Today I used the event 'mousemove' in Javascript. The day was full but I could code a little before pack my bags. #100DaysOfCode #JavaScript30
+
+**Thoughts**
+
+**Link(s) to work**
+1. [Mouse Move Shadow](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/16%20-%20Mouse%20Move%20Shadow/index-start.html)
+
+
 ### Day 25: April 07, 
 
 **Today's Progress** Today worked with localStorage. In this project, we save an array of objects (with JSON.stringify) in the localStorage for when the page would be reloaded, the objects saved appears.
