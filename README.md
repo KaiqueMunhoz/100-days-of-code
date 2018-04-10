@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 27: April 09, 
+
+**Today's Progress** Today I arrived in São Paulo. I spend most of the day studying how to get a subway. At night I start learning basics concepts of React: Component, JSX, Webpack, Virtual DOM.
+
+**Thoughts** I Have to study:
+ - StandarJS
+ - BEM - Block Element Modifier
+
+**Link(s) to work**
+1. [Sort Without Articles](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/17%20-%20Sort%20Without%20Articles/index-START.html)
+
+
 ### Day 26: April 08, 
 
 **Today's Progress** Today I used the event 'mousemove' in Javascript. The day was full but I could code a little before pack my bags. #100DaysOfCode #JavaScript30
