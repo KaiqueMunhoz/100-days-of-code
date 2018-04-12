@@ -1,6 +1,26 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 29: April 11, 
+
+**Today's Progress** The day was to learn react-router-dom. Initially, the routes in React don't appear so tough.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
+
+
+### Day 28: April 10, 
+
+**Today's Progress** Today the class was about the State in React. The subject is very different than the others tools I used in the past. Does anyone know any courses to reinforcement the knowledge?
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Adding Up Times with Reduce](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
+
+
 ### Day 27: April 09, 
 
 **Today's Progress** Today I arrived in São Paulo. I spend most of the day studying how to get a subway. At night I start learning basics concepts of React: Component, JSX, Webpack, Virtual DOM.
