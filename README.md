@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 32: April 14, 
+
+**Today's Progress** Today I start working in a project open source with Bootstrap 4. I spent one hour to figure out how to improve the design of website
+
+**Thoughts** 
+
+**Link(s) to work**
+1. https://www.truppie.com/
+
+
 ### Day 31: April 13, 
 
 **Today's Progress** Today I studied the lifecycle of React. Also, I discovered a way to guarantee my variables will receive the values expected with PropTypes.
@@ -8,7 +18,7 @@
 **Thoughts** 
 
 **Link(s) to work**
-1. [Twitelum]
+1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
 
 
 ### Day 30: April 12, 
