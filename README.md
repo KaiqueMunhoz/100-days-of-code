@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 30: April 12, 
+
+**Today's Progress** Today I coded everything I have learn since Monday and put on GitHub. The idea of the class is that until next Wednesday we build a simple twitter page with React. 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
+
+
 ### Day 29: April 11, 
 
 **Today's Progress** The day was to learn react-router-dom. Initially, the routes in React don't appear so tough.
