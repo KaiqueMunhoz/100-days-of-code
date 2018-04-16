@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 33: April 15, 
+
+**Today's Progress** I finalized the course of Basic - Bootstrap 4 in TreinaWeb. Even knowing the grid system, I still have problems to change the code in an open source project because it has a few own styles that modify Bootstrap.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
 ### Day 32: April 14, 
 
 **Today's Progress** Today I start working in a project open source with Bootstrap 4. I spent one hour to figure out how to improve the design of website
