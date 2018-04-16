@@ -1,6 +1,16 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 31: April 13, 
+
+**Today's Progress** Today I studied the lifecycle of React. Also, I discovered a way to guarantee my variables will receive the values expected with PropTypes.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Twitelum]
+
+
 ### Day 30: April 12, 
 
 **Today's Progress** Today I coded everything I have learn since Monday and put on GitHub. The idea of the class is that until next Wednesday we build a simple twitter page with React. 
