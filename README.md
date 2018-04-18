@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 34: April 16, 
+
+**Today's Progress** I started learn Redux to work together with React. Today I studied the concepts of 'subscribe',  'dispatch' and 'getState'.
+
+**Thoughts** 
+
+**Link(s) to work** 1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
+
+
 ### Day 33: April 15, 
 
 **Today's Progress** I finalized the course of Basic - Bootstrap 4 in TreinaWeb. Even knowing the grid system, I still have problems to change the code in an open source project because it has a few own styles that modify Bootstrap.
