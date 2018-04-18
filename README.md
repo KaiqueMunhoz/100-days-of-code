@@ -1,13 +1,24 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 35: April 17, 
+
+**Today's Progress** Today I started the course React 16: The Complete guide on Udemy. I saw so many people here talking about this course that I couldn't let to check.
+
+**Thoughts** 
+
+**Link(s) to work** 
+1. [Task 1](https://github.com/KaiqueMunhoz/React-16-Complete-Guide)
+
+
 ### Day 34: April 16, 
 
 **Today's Progress** I started learn Redux to work together with React. Today I studied the concepts of 'subscribe',  'dispatch' and 'getState'.
 
 **Thoughts** 
 
-**Link(s) to work** 1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
+**Link(s) to work** 
+1. [Twitelum](https://github.com/KaiqueMunhoz/JavaScript30/blob/master/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-START.html)
 
 
 ### Day 33: April 15, 
