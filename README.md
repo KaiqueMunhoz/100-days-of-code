@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 37: April 19, 
+
+**Today's Progress**   I updated the project of a basic Twitter on Github. This project is the conclusion of the course that I was participating since last week. The objective was to learn as much as possible of 'React' with this application.
+
+**Thoughts** 
+
+**Link(s) to work** [Twitelum](https://github.com/KaiqueMunhoz/twitelum)
+
+
 ### Day 36: April 18, 
 
 **Today's Progress**  I finished the course of React at @caelum . It was a intense week and I learned a lot of this tool. Soon I will update the code on Github. Friday begin the journey with React Native.
