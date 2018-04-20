@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 36: April 18, 
+
+**Today's Progress**  I finished the course of React at @caelum . It was a intense week and I learned a lot of this tool. Soon I will update the code on Github. Friday begin the journey with React Native.
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+
 ### Day 35: April 17, 
 
 **Today's Progress** Today I started the course React 16: The Complete guide on Udemy. I saw so many people here talking about this course that I couldn't let to check.
