@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 42: April 24, 
+
+**Today's Progress** Today we learned the pattern SSOT (Single Source of Truth). The question that motivated this pattern was: "When I have to use redux/flux in my application?"
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 41: April 23, 
 
 **Today's Progress** Today we created the like and send button with React Native. Also, we separated the components in presentation and containers.
