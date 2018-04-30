@@ -12,7 +12,7 @@
 
 ### Day 40: April 22, 
 
-**Today's Progress**  Yesterday I coded with Vanilla Javascript in a game. The objective was to build a 'Gallows Game'. 
+**Today's Progress**  Today I coded with Vanilla Javascript in a game. The objective was to build a 'Gallows Game'. 
 
 **Thoughts** 
 
