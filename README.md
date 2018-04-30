@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 41: April 23, 
+
+**Today's Progress** Today we created the like and send button with React Native. Also, we separated the components in presentation and containers.
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 40: April 22, 
 
 **Today's Progress**  Yesterday I coded with Vanilla Javascript in a game. The objective was to build a 'Gallows Game'. 
