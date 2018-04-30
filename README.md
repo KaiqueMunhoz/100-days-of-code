@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 38: April 20, 
+
+**Today's Progress**  Today I started learning React Native. The objective was make the environment works. Tomorrow we will begin with the code.
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 37: April 19, 
 
 **Today's Progress**   I updated the project of a basic Twitter on Github. This project is the conclusion of the course that I was participating since last week. The objective was to learn as much as possible of 'React' with this application.
