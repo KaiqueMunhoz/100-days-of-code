@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 39: April 21, 
+
+**Today's Progress**  Today is holiday in Brasil, but the course of react native continued. Today we coded since 9am until 5pm. The objective is to build an instagram app by friday.
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 38: April 20, 
 
 **Today's Progress**  Today I started learning React Native. The objective was make the environment works. Tomorrow we will begin with the code.
