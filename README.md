@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 43: April 25, 
+
+**Today's Progress** Today we worked with Rest API. The objective was to review the concepts of the method 'fetch' and what to pass in the 'headers'.
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 42: April 24, 
 
 **Today's Progress** Today we learned the pattern SSOT (Single Source of Truth). The question that motivated this pattern was: "When I have to use redux/flux in my application?"
