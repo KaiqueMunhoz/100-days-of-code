@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 40: April 22, 
+
+**Today's Progress**  Yesterday I coded with Vanilla Javascript in a game. The objective was to build a 'Gallows Game'. 
+
+**Thoughts** 
+
+**Link(s) to work** [Gallows Game](https://codepen.io/munhoz13/pen/MGKBwa)
+
+
 ### Day 39: April 21, 
 
 **Today's Progress**  Today is holiday in Brasil, but the course of react native continued. Today we coded since 9am until 5pm. The objective is to build an instagram app by friday.
