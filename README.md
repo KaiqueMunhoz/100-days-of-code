@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 46: April 28, 
+
+**Today's Progress** Back to my city, I took this day to organize my projects in Github and my tasks for the next weeks. Until the end of this week, I have to finish the Javascript Functional course at Alura. 
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/InstaluraMobile)
+
+
 ### Day 44,45: April 26,27 
 
 **Today's Progress** After 3 weeks in São Paulo I finished the academy @gamaacademybr. In this time I learned so much about React and React Native at @caelum. Thanks, @AccentureDigi for this opportunity. 
