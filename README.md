@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 48: April 30, 
+
+**Today's Progress** Today I started a project to review my skills with React. The objective was to register an author and his respective books.
+
+**Thoughts** 
+
+**Link(s) to work** [CDC-Admin](https://github.com/KaiqueMunhoz/cdc-admin)
+
+
 ### Day 47: April 29, 
 
 **Today's Progress** Today I finished the course of Javascript Funcional. The objective now is to focus on React and the good practices of this library.
