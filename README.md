@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 47: April 29, 
+
+**Today's Progress** Today I finished the course of Javascript Funcional. The objective now is to focus on React and the good practices of this library.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
 ### Day 46: April 28, 
 
 **Today's Progress** Back to my city, I took this day to organize my projects in Github and my tasks for the next weeks. Until the end of this week, I have to finish the Javascript Functional course at Alura. 
