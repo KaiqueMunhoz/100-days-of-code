@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 50: May 02, 
+
+**Today's Progress** Finished the project of authors and books. It still needs to be refactored a few codes, like the table that I had to make two components, one for the books and one for the authors.
+
+**Thoughts** 
+
+**Link(s) to work** [CDC-Admin](https://github.com/KaiqueMunhoz/cdc-admin)
+
+
 ### Day 49: May 01, 
 
 **Today's Progress** Continuing with the project that I started yesterday. If everything goes right, tomorrow I am going to finish it.
