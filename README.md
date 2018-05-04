@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 51: May 03, 
+
+**Today's Progress** I started the little tutorial of tic-tac-toe game in React documentation. There I discovered the extension for google chrome that helps us to analyze the code made with React.
+
+**Thoughts** 
+
+**Link(s) to work** [React Tic-Tac-Toe](https://github.com/KaiqueMunhoz/react-tic-tac-toe)
+
+
 ### Day 50: May 02, 
 
 **Today's Progress** Finished the project of authors and books. It still needs to be refactored a few codes, like the table that I had to make two components, one for the books and one for the authors.
