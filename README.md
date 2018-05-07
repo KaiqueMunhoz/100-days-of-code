@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 52: May 04, 
+
+**Today's Progress** Today I finished the tutorial of React that documentation has. I discovered that exists a convention when we named a function. The parent generally has the prefix 'handle' and the children have the prefix 'on'.
+
+**Thoughts** 
+
+**Link(s) to work** [React Tic-Tac-Toe](https://github.com/KaiqueMunhoz/react-tic-tac-toe)
+
+
 ### Day 51: May 03, 
 
 **Today's Progress** I started the little tutorial of tic-tac-toe game in React documentation. There I discovered the extension for google chrome that helps us to analyze the code made with React.
