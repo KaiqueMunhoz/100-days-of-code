@@ -1,6 +1,15 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 53: May 04, 
+
+**Today's Progress** Today I started a new project based on Instagram. Previously, I had made an app with react-native, now I am doing a simple website of the Instagram with React
+
+**Thoughts** 
+
+**Link(s) to work** [Instalura](https://github.com/KaiqueMunhoz/instalura)
+
+
 ### Day 52: May 04, 
 
 **Today's Progress** Today I finished the tutorial of React that documentation has. I discovered that exists a convention when we named a function. The parent generally has the prefix 'handle' and the children have the prefix 'on'.
