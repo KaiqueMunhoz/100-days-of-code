@@ -1,6 +1,78 @@
 # 100 Days Of Code - Round 1
 
 
+### Day 62: May 13, 
+
+**Today's Progress** Continuing the website of the Instagram. Today I started to fetch data from the API (users, photos, date, time).
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 60, 61: May 11, May 12, 
+
+**Today's Progress** Working with High-Order Components in #React . I am applying this pattern to my old projects and learning at the same time.
+
+**Thoughts** 
+
+**Link(s) to work** https://reactjs.org/docs/higher-order-components.html
+
+
+### Day 59: May 10, 
+
+**Today's Progress** Friday I left the React aside and studied CSS Grid. In this week I saw so much React code/articles that I had to change a little the focus.
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+
+### Day 58: May 09, 
+
+**Today's Progress** Thursday I made the job interview. After introduced myself, I had to explain the projects that I already made and the frameworks/tools that I worked with. It wasn't as scary as I imagined.
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+
+### Day 57: May 08, 
+
+**Today's Progress** Wednesday I read a lot of articles of React and React-Native. The next day would be the job interview and I had to be prepared to talk about these tools.
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+
+### Day 56: May 07, 
+
+**Today's Progress** Tuesday was the day of my exam. This was the 6 stage to get a job as a frontend developer. The test lasted 2 hours and had 24 questions of React and React-Native.
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+
+### Day 55: May 06, 
+
+**Today's Progress** Today I played the Flexbox Froggy. This fun game teaches how to use basics of the Flexbox CSS helping the frog goes to the lily pads.
+
+**Thoughts** 
+
+**Link(s) to work** https://flexboxfroggy.com/
+
+
+### Day 54: May 05, 
+
+**Today's Progress** Yesterday I took the day to read articles of React. Today I am going to make a test to get a job as a frontend developer. Among a few contents that I read, one that I like a lot was Airbnb React/JSX Style Guide.
+
+**Thoughts** 
+
+**Link(s) to work** https://github.com/airbnb/javascript/tree/master/react
+
+
 ### Day 53: May 04, 
 
 **Today's Progress** Today I started a new project based on Instagram. Previously, I had made an app with react-native, now I am doing a simple website of the Instagram with React
